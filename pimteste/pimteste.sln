@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33424.131
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "pimteste", "pimteste\pimteste.csproj", "{26CC1EFC-42DD-42A5-B67F-70BAFF4DD297}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{26CC1EFC-42DD-42A5-B67F-70BAFF4DD297}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{26CC1EFC-42DD-42A5-B67F-70BAFF4DD297}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{26CC1EFC-42DD-42A5-B67F-70BAFF4DD297}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{26CC1EFC-42DD-42A5-B67F-70BAFF4DD297}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {00021218-9CE0-4D99-8FFD-3AA3240682E5}
+	EndGlobalSection
+EndGlobal
